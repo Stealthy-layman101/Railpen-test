@@ -1,3 +1,9 @@
+Project Goal: A multi-step quote form with validation.
+
+Tech Stack: React, Bootstrap, CSS Media Queries.
+
+Key Features: Real-time validation, state persistence across steps, and mobile-first design.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
